@@ -5,7 +5,7 @@ permalink: /calc/
 order: 2
 ---
 
-1. [Open Babel (2.4.1) 업데이트 및 설치][1]
+1. 02/04/2017 (Sun.).    [Open Babel (2.4.1) 업데이트 및 설치][1]
 1. [cif2cell 활용하기][2]
 2. [VASP, Gaussian에서 원자 위치 고정하는 방법][3]
 
