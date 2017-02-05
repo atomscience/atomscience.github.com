@@ -12,4 +12,3 @@ date:   2015-10-20 08:03:23
    $  Find . -name "WAVECAR" -type f |xargs rm -f
     $  Find ~/ -name "sub" -type d |xargs rm -rf
    ```
-
