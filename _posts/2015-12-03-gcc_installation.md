@@ -10,7 +10,6 @@ tag: gcc, mac
 
 El Capitan에서 테스트 해보니 4.9.3 까지는 에러가 난다. 5.2.0 버전은 정상적으로 설치가 가능하다.
 
-
 ```
 $  wget ftp://ftp.kaist.ac.kr/gnu/gnu/gcc/gcc-5.2.0/gcc-5.2.0.tar.gz
 $  tar xvfz gcc-5.2.0.tar.gz
