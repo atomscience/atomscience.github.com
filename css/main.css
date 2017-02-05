@@ -158,7 +158,7 @@ a:visited { color: #205caa; }
 
 .posts .post-date {
   display: block;
-  font-size: 13px;
+  font-size: 15px;
   color: #818181;
 }
 
@@ -169,7 +169,7 @@ a:visited { color: #205caa; }
 .post-header { margin: 10px 0 30px; }
 
 .post-header h1 {
-  font-size: 23px;
+  font-size: 25px;
   letter-spacing: -1.75px;
   line-height: 1;
   font-weight: 300;
