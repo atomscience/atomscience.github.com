@@ -33,7 +33,9 @@ dropbox를 github 저장소로 사용하는 방법을 정리해 놓은 blog이�
 ### 에러 해결 방법
 
 	fatal: refusing to merge unrelated histories
+
 . history matching이 안될 때 발생한다. `git pull origin master --allow-unrelated-histories` 명령어로 해결이 가능하다.
+
 ---
 
 
