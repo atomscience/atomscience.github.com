@@ -20,8 +20,8 @@ vi editor 내에서 많은 라인을 한번에 클립보드로 복사해야 될 
 
 	```
 	"Clipboard
-	 set clipboard=unnamedplus
-	 vmap <C-c> y:call system("xclip -i -selection clipboard", getreg("\""))<CR>:call system("xclip -i", getreg("\""))<CR>
+	set clipboard=unnamedplus
+	vmap <C-c> y:call system("xclip -i -selection clipboard", getreg("\""))<CR>:call system("xclip -i", getreg("\""))<CR>
 	```
 <br>
 
