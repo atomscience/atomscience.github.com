@@ -20,7 +20,7 @@ order: 1
 1. [Modules 기능 사용시 modulefile 인식 가능한 PATH 등록하기][13]
 1. [gcc 설치가 쉬워졌다][14]
 1. [xclip으로 vi editor 안에서 ctrl+C로 복사하기][15]
- 1. [cmake 설치하기][16]
+1. [cmake 설치하기][16]
 1. [오래된 데이터 정리할 때 유용한 Commands][17]
 1. [백그라운드에서 프로세스 실행하기 - nohup][18]
 1. [xargs vs. exec {}][19]
