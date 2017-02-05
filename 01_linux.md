@@ -42,7 +42,7 @@ order: 1
 [9]:	https://atomscience.github.io/2016/09/01/Ubuntu_PS1/
 [10]:	https://atomscience.github.io/2016/08/31/Ubuntu_dpkg/
 [11]:	https://atomscience.github.io/2016/08/30/Font_Linux/
-[12]:	https://atomscience.github.io/2016/08/03/GCC49-release/
+[12]:	https://atomscience.github.io/2016/08/04/GCC49-release/ "GCC 4.9 Release"
 [13]:	https://atomscience.github.io/2015/12/08/modulefile/ "Modules 기능 사용시 modulefile 인식 가능한 PATH 등록하기"
 [14]:	https://atomscience.github.io/2015/12/03/gcc_installation/
 [15]:	https://atomscience.github.io/2015/11/05/vim-ctrlCcopy/
