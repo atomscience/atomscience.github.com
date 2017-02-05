@@ -51,7 +51,7 @@ dropbox를 github 저장소로 사용하는 방법을 정리해 놓은 blog이�
 
 - [Dropbox 를 Git 저장소로 사용하기][1]
 - [Github 흐름 이해하기 #2][2]
-- [github pull 에러] [3]
+- [github pull 에러][3]
 
 [1]:	http://byteclass.tistory.com/19
 [2]:	https://blog.outsider.ne.kr/866
