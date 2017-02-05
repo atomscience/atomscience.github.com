@@ -18,11 +18,11 @@ vi editor 내에서 많은 라인을 한번에 클립보드로 복사해야 될 
 
 2. ~/.vimrc 에 아래 내용 넣어주기  
 
-```
-"Clipboard
-set clipboard=unnamedplus
-vmap <C-c> y:call system("xclip -i -selection clipboard", getreg("\""))<CR>:call system("xclip -i", getreg("\""))<CR>
-```
+	```
+	"Clipboard
+	 set clipboard=unnamedplus
+	 vmap <C-c> y:call system("xclip -i -selection clipboard", getreg("\""))<CR>:call system("xclip -i", getreg("\""))<CR>
+	```
 <br>
 
 3. Xquartz 환경설정 '붙이기 보드' 탭에서 맨 아래에 '새로운 텍스트가 선택되면 바로 붙이기 보드 업데이트' 체크박스 선택
