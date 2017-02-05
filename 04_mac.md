@@ -37,32 +37,32 @@ order: 2
 1. [터미널 명령어를 이용해 WIFI 를 컨트롤 하는 방법][30]
 1. [iTerm2 터미널 탭과 윈도우 타이틀바에 현재 경로 표시하기][31]
 
-[1]:	http://nodolee.github.io/2017/01/22/ssh-keychain-assistant/ "macOS Sierra - ssh-keychain 문제해결"
-[2]:	http://nodolee.github.io/2016/10/09/dropbox_github/ "Git 저장소 사용법 정리"
-[3]:	http://nodolee.github.io/2016/09/18/homebrew_install/ "macOS Sierra - Homebrew 설치"
-[4]:	http://nodolee.github.io/2016/09/09/MacOS_Sierra_GM_public/ "macOS Sierra 퍼블릭 베타테스터용 GM release"
-[5]:	http://nodolee.github.io/2016/09/04/macossierra_menuicon/ "macOS Sierra 상단 메뉴 아이콘 정렬 방법"
-[6]:	http://nodolee.github.io/2016/09/04/macOS_diskbuild/ "macOS Sierra USB 설치 디스크 만들기"
-[7]:	http://nodolee.github.io/2016/08/03/GCC49-release/ "GCC 4.9 Release"
-[9]:	http://nodolee.github.io/2016/05/25/hazel/
-[10]:	http://nodolee.github.io/2016/03/27/archey/
-[11]:	http://nodolee.github.io/2015/11/05/homebrew-automatic/
-[12]:	http://nodolee.github.io/2015/11/01/opsnssl-randommacaddress/
-[13]:	http://nodolee.github.io/2015/10/31/Macupdate-terminal/
-[14]:	http://nodolee.github.io/2015/10/31/Macaddresschange/
-[15]:	http://nodolee.github.io/2015/10/08/terminal-wifi/
-[16]:	http://nodolee.github.io/2015/09/05/iTerm_Titlebar-Path/
-[17]:	http://nodolee.github.io/2016/09/18/homebrew_install/ "macOS Sierra - Homebrew 설치"
-[18]:	http://nodolee.github.io/2016/09/09/MacOS_Sierra_GM_public/ "macOS Sierra 퍼블릭 베타테스터용 GM release"
-[19]:	http://nodolee.github.io/2016/09/04/macossierra_menuicon/ "macOS Sierra 상단 메뉴 아이콘 정렬 방법"
-[20]:	http://nodolee.github.io/2016/09/04/macOS_diskbuild/ "macOS Sierra USB 설치 디스크 만들기"
-[21]:	http://nodolee.github.io/2016/08/03/GCC49-release/ "GCC 4.9 Release"
-[22]:	http://nodolee.github.io/2016/08/03/GCC49-release/ "GCC 4.9 Release"
-[24]:	http://nodolee.github.io/2016/03/27/archey/
-[25]:	http://nodolee.github.io/2015/11/05/homebrew-automatic/
-[26]:	http://nodolee.github.io/2015/11/01/opsnssl-randommacaddress/
-[27]:	http://nodolee.github.io/2015/10/31/Macupdate-terminal/
-[28]:	http://nodolee.github.io/2015/10/31/Macaddresschange/
-[29]:	http://nodolee.github.io/2015/10/08/terminal-wifi/
-[30]:	http://nodolee.github.io/2015/09/05/iTerm_Titlebar-Path/
-[31]:	http://nodolee.github.io/2015/09/05/iTerm_Titlebar-Path/
+[1]:	https://atomscience.github.io/2017/01/22/ssh-keychain-assistant/ "macOS Sierra - ssh-keychain 문제해결"
+[2]:	https://atomscience.github.io/2016/10/09/dropbox_github/ "Git 저장소 사용법 정리"
+[3]:	https://atomscience.github.io/2016/09/18/homebrew_install/ "macOS Sierra - Homebrew 설치"
+[4]:	https://atomscience.github.io/2016/09/09/MacOS_Sierra_GM_public/ "macOS Sierra 퍼블릭 베타테스터용 GM release"
+[5]:	https://atomscience.github.io/2016/09/04/macossierra_menuicon/ "macOS Sierra 상단 메뉴 아이콘 정렬 방법"
+[6]:	https://atomscience.github.io/2016/09/04/macOS_diskbuild/ "macOS Sierra USB 설치 디스크 만들기"
+[7]:	https://atomscience.github.io/2016/08/03/GCC49-release/ "GCC 4.9 Release"
+[9]:	https://atomscience.github.io/2016/05/25/hazel/
+[10]:	https://atomscience.github.io/2016/03/27/archey/
+[11]:	https://atomscience.github.io/2015/11/05/homebrew-automatic/
+[12]:	https://atomscience.github.io/2015/11/01/opsnssl-randommacaddress/
+[13]:	https://atomscience.github.io/2015/10/31/Macupdate-terminal/
+[14]:	https://atomscience.github.io/2015/10/31/Macaddresschange/
+[15]:	https://atomscience.github.io/2015/10/08/terminal-wifi/
+[16]:	https://atomscience.github.io/2015/09/05/iTerm_Titlebar-Path/
+[17]:	https://atomscience.github.io/2016/09/18/homebrew_install/ "macOS Sierra - Homebrew 설치"
+[18]:	https://atomscience.github.io/2016/09/09/MacOS_Sierra_GM_public/ "macOS Sierra 퍼블릭 베타테스터용 GM release"
+[19]:	https://atomscience.github.io/2016/09/04/macossierra_menuicon/ "macOS Sierra 상단 메뉴 아이콘 정렬 방법"
+[20]:	https://atomscience.github.io/2016/09/04/macOS_diskbuild/ "macOS Sierra USB 설치 디스크 만들기"
+[21]:	https://atomscience.github.io/2016/08/03/GCC49-release/ "GCC 4.9 Release"
+[22]:	https://atomscience.github.io/2016/08/03/GCC49-release/ "GCC 4.9 Release"
+[24]:	https://atomscience.github.io/2016/03/27/archey/
+[25]:	https://atomscience.github.io/2015/11/05/homebrew-automatic/
+[26]:	https://atomscience.github.io/2015/11/01/opsnssl-randommacaddress/
+[27]:	https://atomscience.github.io/2015/10/31/Macupdate-terminal/
+[28]:	https://atomscience.github.io/2015/10/31/Macaddresschange/
+[29]:	https://atomscience.github.io/2015/10/08/terminal-wifi/
+[30]:	https://atomscience.github.io/2015/09/05/iTerm_Titlebar-Path/
+[31]:	https://atomscience.github.io/2015/09/05/iTerm_Titlebar-Path/
