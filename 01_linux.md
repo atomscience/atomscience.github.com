@@ -54,5 +54,5 @@ order: 1
 [21]:	https://atomscience.github.io/2015/07/11/Rsync_Examples/
 [22]:	https://atomscience.github.io/2015/07/03/Termial_Prompt/
 [23]:	https://atomscience.github.io/2015/06/19/vim_window_split/ "vi editor 에서 창 나누어 보기"
-[24]:	Linux%EC%97%90%20Octave%20%EC%84%A4%EC%B9%98
+[24]:	https://atomscience.github.io/2015/05/29/Linux-Epelerror/
 [25]:	https://atomscience.github.io/2012/06/27/removeM/
