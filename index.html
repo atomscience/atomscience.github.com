@@ -9,9 +9,9 @@ layout: default
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-        <span class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <a class="post-date">{{ post.date | date: "%b %-d, %Y" }}
-        </a>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}
         </span>
+        </a>
       </li>
     {% endfor %}
   </ul>
