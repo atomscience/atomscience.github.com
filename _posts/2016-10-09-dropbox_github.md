@@ -30,7 +30,11 @@ dropbox를 github 저장소로 사용하는 방법을 정리해 놓은 blog이�
 
 	$  git pull
 
+
+
 ### 에러 해결 방법
+
+---
 
 	fatal: refusing to merge unrelated histories
 
