@@ -39,7 +39,7 @@ order: 1
 [6]:	https://atomscience.github.io/2016/09/08/Ubuntu_predefs/ "Ubuntu - predefs.h 파일 못찾을 때"
 [7]:	https://atomscience.github.io/2016/09/04/VIM_replace_text/ "vi editor 텍스트 치환 방법"
 [8]:	https://atomscience.github.io/2016/09/03/vim_comment/ "vi editor 주석처리 및 주석제거 방법"
-[9]:	https://atomscience.github.io/2016/08/31/Ubuntu-PS1/
+[9]:	https://atomscience.github.io/2016/09/01/Ubuntu_PS1/
 [10]:	https://atomscience.github.io/2016/08/31/Ubuntu_dpkg/
 [11]:	https://atomscience.github.io/2016/08/30/Font_Linux/
 [12]:	https://atomscience.github.io/2016/08/03/GCC49-release/
