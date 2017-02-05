@@ -51,7 +51,7 @@ order: 1
 [18]:	https://atomscience.github.io/2015/10/11/nohup/
 [19]:	https://atomscience.github.io/2015/09/05/xargs-exec/
 [20]:	https://atomscience.github.io/2015/07/11/Linux_Zip/ "리눅스 에서 zip 파일 압축하기/압축풀기"
-[21]:	https://atomscience.github.io/2015/07/10/Rsync_Examples/
+[21]:	https://atomscience.github.io/2015/07/11/Rsync_Examples/
 [22]:	https://atomscience.github.io/2015/07/02/Termial_Prompt/
 [23]:	https://atomscience.github.io/2015/06/18/vim_window_split/ "vi editor 에서 창 나누어 보기"
 [24]:	Linux%EC%97%90%20Octave%20%EC%84%A4%EC%B9%98
